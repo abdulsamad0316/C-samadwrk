@@ -12,3 +12,17 @@ C:\Users\HP\source\repos\quizzz\quizzz\obj\Debug\net8.0\refint\quizzz.dll
 C:\Users\HP\source\repos\quizzz\quizzz\obj\Debug\net8.0\quizzz.pdb
 C:\Users\HP\source\repos\quizzz\quizzz\obj\Debug\net8.0\quizzz.genruntimeconfig.cache
 C:\Users\HP\source\repos\quizzz\quizzz\obj\Debug\net8.0\ref\quizzz.dll
+C:\Users\HP\Desktop\c# folder\quizzz\quizzz\bin\Debug\net8.0\quizzz.exe
+C:\Users\HP\Desktop\c# folder\quizzz\quizzz\bin\Debug\net8.0\quizzz.deps.json
+C:\Users\HP\Desktop\c# folder\quizzz\quizzz\bin\Debug\net8.0\quizzz.runtimeconfig.json
+C:\Users\HP\Desktop\c# folder\quizzz\quizzz\bin\Debug\net8.0\quizzz.dll
+C:\Users\HP\Desktop\c# folder\quizzz\quizzz\bin\Debug\net8.0\quizzz.pdb
+C:\Users\HP\Desktop\c# folder\quizzz\quizzz\obj\Debug\net8.0\quizzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\c# folder\quizzz\quizzz\obj\Debug\net8.0\quizzz.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\c# folder\quizzz\quizzz\obj\Debug\net8.0\quizzz.AssemblyInfo.cs
+C:\Users\HP\Desktop\c# folder\quizzz\quizzz\obj\Debug\net8.0\quizzz.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c# folder\quizzz\quizzz\obj\Debug\net8.0\quizzz.dll
+C:\Users\HP\Desktop\c# folder\quizzz\quizzz\obj\Debug\net8.0\refint\quizzz.dll
+C:\Users\HP\Desktop\c# folder\quizzz\quizzz\obj\Debug\net8.0\quizzz.pdb
+C:\Users\HP\Desktop\c# folder\quizzz\quizzz\obj\Debug\net8.0\quizzz.genruntimeconfig.cache
+C:\Users\HP\Desktop\c# folder\quizzz\quizzz\obj\Debug\net8.0\ref\quizzz.dll
