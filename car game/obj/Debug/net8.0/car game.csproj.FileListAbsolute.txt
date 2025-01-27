@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\c# folder\car game\car game\bin\Debug\net8.0\car game.exe
+C:\Users\HP\Desktop\c# folder\car game\car game\bin\Debug\net8.0\car game.deps.json
+C:\Users\HP\Desktop\c# folder\car game\car game\bin\Debug\net8.0\car game.runtimeconfig.json
+C:\Users\HP\Desktop\c# folder\car game\car game\bin\Debug\net8.0\car game.dll
+C:\Users\HP\Desktop\c# folder\car game\car game\bin\Debug\net8.0\car game.pdb
+C:\Users\HP\Desktop\c# folder\car game\car game\obj\Debug\net8.0\car game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\c# folder\car game\car game\obj\Debug\net8.0\car game.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\c# folder\car game\car game\obj\Debug\net8.0\car game.AssemblyInfo.cs
+C:\Users\HP\Desktop\c# folder\car game\car game\obj\Debug\net8.0\car game.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c# folder\car game\car game\obj\Debug\net8.0\car game.dll
+C:\Users\HP\Desktop\c# folder\car game\car game\obj\Debug\net8.0\refint\car game.dll
+C:\Users\HP\Desktop\c# folder\car game\car game\obj\Debug\net8.0\car game.pdb
+C:\Users\HP\Desktop\c# folder\car game\car game\obj\Debug\net8.0\car game.genruntimeconfig.cache
+C:\Users\HP\Desktop\c# folder\car game\car game\obj\Debug\net8.0\ref\car game.dll
